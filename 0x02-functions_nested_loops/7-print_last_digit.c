@@ -1,3 +1,4 @@
+#include "main.h"
 /**
 *print_last_digit - last digit of a number
 *@n : imput
